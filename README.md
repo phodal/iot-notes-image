@@ -6,3 +6,5 @@
 
 ![Smart City IEEE](smart-city-ieee.jpg)
 
+![IoT Trend Radar](iot-trend-radar.jpg)
+
